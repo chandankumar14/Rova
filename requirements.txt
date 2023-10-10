@@ -1,0 +1,12 @@
+tensorflow==2.13.0
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+#matplotlib
+numpy
+#pandas 
+
+
+## to run requirement.txt file 
+## command is  pip install -r requirements.txt
